@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-j4fox1.pulaucuanwin.sbs/sitemap.xml
